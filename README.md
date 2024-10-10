@@ -23,7 +23,7 @@ You can check the live demo of the app here: [Weather App Demo](https://weaterap
 **Backend**   : None (Client-side app)<br/>
 **API**       : OpenWeatherMap API<br/>
 **Libraries** : Axios (for HTTP requests)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css)](https://skillicons.dev)
 
 # Usage
 **i** Open the app in your browser.<br/>
