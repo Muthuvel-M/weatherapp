@@ -16,7 +16,7 @@ You can check the live demo of the app here: [Weather App Demo](https://weaterap
 **🌡️** Displays temperature in Celsius or Fahrenheit.<br />
 **💨** Provides additional weather details like humidity and wind speed.<br />
 **🔍** Search functionality to quickly find weather information for a city.<br />
-https://img.icons8.com/?size=100&id=PmILNglL99hv&format=png&color=000000  User-Friendly Interface: Clean and responsive design that works seamlessly across devices.<br />
+**👨‍💻** User-Friendly Interface: Clean and responsive design that works seamlessly across devices.<br />
 
 # Tech Stack
 **Frontend**  : HTML, CSS, JavaScript <br/>
