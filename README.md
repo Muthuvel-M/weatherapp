@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e4bd43bb-a772-4e6e-a774-2173fa6e13ac)# Weather App 🌦️
+# Weather App 🌦️
 A simple and user-friendly Weather Application that provides real-time weather updates for any city in the world. The app fetches weather data using the OpenWeatherMap API and displays the current temperature, weather conditions, humidity, and wind speed.
 
 # Table of Contents
