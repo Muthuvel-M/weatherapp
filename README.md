@@ -2,7 +2,7 @@
 A simple and user-friendly Weather Application that provides real-time weather updates for any city in the world. The app fetches weather data using the OpenWeatherMap API and displays the current temperature, weather conditions, humidity, and wind speed.
 
 # Table of Contents
--**1.** Demo Link
+**1.** Demo Link <br />
 -**2.** Features
 -**3.** Tech Stack
 -**4.** Usage
